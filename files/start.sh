@@ -9,5 +9,5 @@ fi
 
 touch /conf/aria2.session
 
-darkhttpd /aria2-ng/src --port 80 &
+darkhttpd /aria2-ng --port 80 &
 aria2c --conf-path=/conf/aria2.conf
