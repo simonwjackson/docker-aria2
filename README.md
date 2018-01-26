@@ -16,7 +16,9 @@ should remain up-to-date as newer Alpine/Aria2 versions become available.
 ## Tags:
 
 `latest`: Same as `latest-webui`.
+
 `latest-webui`: Latest Aria2 with the [Aria2-WebUI](https://github.com/timonier/webui-aria2) frontend
+
 `latest-ng`: Latest Aria2 with the [Aria2-NG](https://github.com/mayswind/AriaNg) frontend
 
 ## Configuration:
