@@ -13,8 +13,8 @@ services:
       - TZ=$TZ
       - RPC_LISTEN_PORT=6800
       - RPC_SECRET=<your_password>
-    networks:
-      - traefik
+    ports:
+      - 6800:6800
     volumes:
       - /session
       - /cache
